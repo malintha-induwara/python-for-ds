@@ -9,3 +9,5 @@ They are
 *Tuple
 *Set
 *Dicitionary
+
+Machine Learning is teaching computer how to preddict thing (weathering data) we help computers to do that
