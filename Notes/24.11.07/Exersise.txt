@@ -1,0 +1,9 @@
+newvariable = "John"  leagal  not good
+new_variable = "John" leagal good 
+_new_variable = "John" leagal  good
+newVariable = "John" leagal good
+NEWVARIABLE= "John" leagal  not good
+newvariable2 = "John" leagal not good
+2newvariable = "John" illeagal
+new-variable = "John" illeagal
+new variable = "John" illeagal

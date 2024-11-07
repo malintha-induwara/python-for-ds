@@ -1,0 +1,11 @@
+*Search About Data type complex 
+*Search about dicts
+
+
+There 4 Datacollections (Arrays)
+
+They are 
+*List
+*Tuple
+*Set
+*Dicitionary
