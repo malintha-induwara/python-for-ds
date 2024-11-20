@@ -1,7 +1,7 @@
 my_tuple = ("Grapes",8,True,"banana")
 
 
-# print(len(my_tuple))
+print(len(my_tuple))
 # print(type(my_tuple))
 
 
