@@ -1,0 +1,23 @@
+Python Tuples
+
+The difference betweeen List and Tuple is that 
+
+List are mutable
+Tuples are immutable
+
+We use tuples for storing constant values
+like geo cordinates 
+Eg: (39.1,32.41)
+
+
+Duplicate values are also acceptable
+
+    Operands
+    |   | 
+Z = X + Z
+  ^   ^
+  |   |
+  Operators
+
+
+Operators in Python are special symbols that perform operations on variable and values
