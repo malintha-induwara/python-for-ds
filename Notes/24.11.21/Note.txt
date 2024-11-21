@@ -1,0 +1,6 @@
+paramers are the the things that we use when defining function
+
+arugement are the actual values we pass to the function 
+
+Positinal arguments are a type of funciton arguments in python where the values are passed to
+the function in order
