@@ -1,0 +1,2 @@
+This is something new
+This is the writeline method

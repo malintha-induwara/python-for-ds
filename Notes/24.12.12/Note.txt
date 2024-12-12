@@ -1,0 +1,2 @@
+CSV mean - comma separated values
+Why csv file are used? - to store structred data
