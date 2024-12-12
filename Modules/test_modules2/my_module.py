@@ -1,6 +1,7 @@
 def add(a,b):
     return a+b
 
+print("Hello")
 
 #__name__ is a enviroment variable 
 

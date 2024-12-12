@@ -8,6 +8,8 @@ celsius = [20,30,25,40,15]
 def celsius_to_fahrenheit(c):
     return c*(9//5) + 32
 
-fahrenheit = list(map(celsius_to_fahrenheit, celsius))
+# fahrenheit = list(map(celsius_to_fahrenheit, celsius))
+
+fahrenheit = list(map(lambda c: c*(9//5)+32,celsius))
 
 print(fahrenheit)

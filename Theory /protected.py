@@ -1,4 +1,5 @@
-#protected properties and methods are not really protected in Python. They are just a convention to tell other developers that they should not access those properties or methods.
+#protected properties and methods are not really protected in Python. 
+# They are just a convention to tell other developers that they should not access those properties or methods.
 
 class Animal:
     def __init__(self):
@@ -19,6 +20,3 @@ new_dog = Dog()
 new_dog.bark()
 print(new_dog.data)
 new_dog._make_sound()
-
-
-#write a python program
