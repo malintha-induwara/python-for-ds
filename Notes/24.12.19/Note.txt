@@ -1,0 +1,6 @@
+Using pythons inbuilt List we cant do complex array operations also they are very slow.
+
+
+So NumPy is used for larger,multi-dimensinal arrays and matrices (x50 faster than noraml List operations)
+
+we save structred data in CSV
