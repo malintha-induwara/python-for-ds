@@ -1,0 +1,4 @@
+Extract details from a website and store in usefull format
+
+
+When debugging we need to read bottom to top traceback
