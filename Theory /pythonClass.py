@@ -35,9 +35,6 @@ print(Car.category)
 
 
 class Tree:
-    category = "Something"
-
-
     def __init__(self,name):    #category is a instance attributes
         self.category = name
 
